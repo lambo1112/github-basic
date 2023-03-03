@@ -153,7 +153,6 @@ const arr3 = [10,20,30,10,20,40];
 const result3 = arr3.filter((val,idx)=>{
     return arr3.indexOf(val) === idx
 })
-=======
 /* 
     // rest parameter
     const summation = (...number) =>{
